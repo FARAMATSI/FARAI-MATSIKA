@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FARAMATSI
 - 👀 I’m interested in ...COMPUTER PROGRAMMING
 - 🌱 I’m currently learning ...SOFTWARE ENGINEERING
-- 💞️ I’m looking to collaborate on ...PROGRAMMING IN C
+- 💞️ I’m looking to collaborate on ...PROGRAMMING IN C, Java, Kotlin and C#
 - 📫 How to reach me ...+263783984876 (WATSAPP) 
 
 <!---
