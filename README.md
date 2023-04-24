@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FARAMATSI
+- 👋 Hi, I’m @FARAMATSI or Fasoft
 - 👀 I’m interested in ...COMPUTER PROGRAMMING
 - 🌱 I’m currently learning ...SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on ...PROGRAMMING IN C, Java, Kotlin and C#
